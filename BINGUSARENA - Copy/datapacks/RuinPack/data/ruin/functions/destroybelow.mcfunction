@@ -1,0 +1,2 @@
+execute unless block ~ ~-1 ~ #ruin:non_destructible unless block ~1 ~-1 ~ #ruin:non_destructible unless block ~-1 ~-1 ~ #ruin:non_destructible unless block ~ ~-1 ~1 #ruin:non_destructible unless block ~ ~-1 ~-1 #ruin:non_destructible unless block ~1 ~-1 ~1 #ruin:non_destructible unless block ~1 ~-1 ~-1 #ruin:non_destructible unless block ~-1 ~-1 ~1 #ruin:non_destructible unless block ~-1 ~-1 ~-1 #ruin:non_destructible unless block ~ ~ ~ #ruin:non_destructible unless block ~ ~1 ~ #ruin:non_destructible run fill ~-1 ~-1 ~-1 ~1 ~-1 ~1 minecraft:air destroy  
+

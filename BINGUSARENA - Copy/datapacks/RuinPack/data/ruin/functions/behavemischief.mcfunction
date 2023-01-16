@@ -1,0 +1,4 @@
+execute as @e[type=minecraft:zombie, tag=mischief] at @s unless block ~ ~-1 ~ air if entity @p[distance=10..15] facing entity @p eyes run playsound minecraft:entity.vex.ambient master @a ~ ~ ~ 
+execute as @e[type=minecraft:zombie, tag=mischief] at @s unless block ~ ~-1 ~ air if entity @p[distance=10..15] run effect give @s minecraft:jump_boost 2 2 true
+execute as @e[type=minecraft:zombie, tag=mischief] at @s unless block ~ ~-1 ~ air if entity @p[distance=10..15] facing entity @p eyes run function ruin:launch_forward
+execute as @e[type=minecraft:zombie, tag=mischief] at @s unless block ~ ~-1 ~ air run effect give @a[distance=..2.5] minecraft:slowness 1 2 false

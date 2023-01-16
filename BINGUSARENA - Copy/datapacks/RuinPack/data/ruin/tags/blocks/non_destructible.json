@@ -1,0 +1,12 @@
+{
+	"values": [
+		"#minecraft:wither_immune",
+		"minecraft:chest",
+		"minecraft:trapped_chest",
+		"#minecraft:beds",
+		"minecraft:water",
+		"minecraft:lava",
+		"minecraft:obsidian"
+	]
+}
+		

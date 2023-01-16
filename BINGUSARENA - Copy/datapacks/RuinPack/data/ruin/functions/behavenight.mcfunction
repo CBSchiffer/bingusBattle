@@ -1,0 +1,3 @@
+execute as @e[type=minecraft:wither_skeleton, tag=knight] at @s run fill ~-1 ~-1 ~-1 ~1 ~-1 ~1 minecraft:soul_soil replace #ruin:corruptable
+execute as @e[type=minecraft:wither_skeleton, tag=knight] at @s run fill ~-30 ~-5 ~-30 ~-9 ~2 ~-9 minecraft:dirt replace minecraft:soul_soil
+execute as @e[type=minecraft:wither_skeleton, tag=knight] at @s run fill ~30 ~-5 ~30 ~9 ~2 ~9 minecraft:dirt replace minecraft:soul_soil

@@ -1,0 +1,2 @@
+summon zombie ~-.75 ~ ~ {Silent:1b,CustomNameVisible:1b,CanPickUpLoot:1b,IsBaby:1b,Tags:["mischief"],CustomName:'{"text":"Lil\' Mischief","color":"gray","bold":true}',Attributes:[{Name:generic.attack_knockback,Base:5}]}
+summon zombie ~.75 ~ ~ {Silent:1b,CustomNameVisible:1b,CanPickUpLoot:1b,IsBaby:1b,Tags:["mischief"],CustomName:'{"text":"Lil\' Mischief","color":"gray","bold":true}',Attributes:[{Name:generic.attack_knockback,Base:5}]}

@@ -1,0 +1,1 @@
+setblock ~ ~ ~ spawner{SpawnCount:3,SpawnRange:100,Delay:0,MinSpawnDelay:100,MaxSpawnDelay:400,MaxNearbyEntities:50,RequiredPlayerRange:100,SpawnData:{id:"minecraft:armor_stand",Marker:1b,Invisible:1b,Tags:["nightSpawner"]}} replace
