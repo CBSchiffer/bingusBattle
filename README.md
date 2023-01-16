@@ -1,4 +1,4 @@
-# bingusBattle
+# What is this repository
 This repository contains the datapack, resource pack, and base world used in the showcase
 
 The ruinResources.zip is the resource pack
